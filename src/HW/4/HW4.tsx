@@ -29,6 +29,7 @@ export const HW4 = () => {
             <Input
                 currentText={currentText}
                 onChange={handleChange}
+                setCurrentText = {setCurrentText}
                 // Remove the placeholder prop if not supported
             />
 

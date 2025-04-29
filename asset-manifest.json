@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tatev-GTA/hw/static/css/main.f1caa2e4.css",
+    "main.js": "/Tatev-GTA/hw/static/js/main.de54dd66.js",
+    "static/js/453.e718c90e.chunk.js": "/Tatev-GTA/hw/static/js/453.e718c90e.chunk.js",
+    "index.html": "/Tatev-GTA/hw/index.html",
+    "main.f1caa2e4.css.map": "/Tatev-GTA/hw/static/css/main.f1caa2e4.css.map",
+    "main.de54dd66.js.map": "/Tatev-GTA/hw/static/js/main.de54dd66.js.map",
+    "453.e718c90e.chunk.js.map": "/Tatev-GTA/hw/static/js/453.e718c90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1caa2e4.css",
+    "static/js/main.de54dd66.js"
+  ]
+}
